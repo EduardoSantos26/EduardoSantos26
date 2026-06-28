@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
@@ -16,15 +17,15 @@
 
 ### Sobre
 
-Desenvolvedor full-stack — do back-end ao front, com foco em entregar produto que funciona de ponta a ponta (infra, API e interface). Também atuo com **IA / LLMs locais**, **deep learning**, **estruturação de dados** e **cibersegurança**.
+Desenvolvedor full-stack — do back-end ao front, com foco em entregar produto que funciona de ponta a ponta (infra, API e interface). Também atuo com **IA / LLMs locais**, **deep learning**, **estruturação de dados**, **cibersegurança** e **criptografia**.
 
 ### Tecnologias
 
 - **Back-end:** Python · Django · Java · C++
 - **Front-end:** React
-- **Dados & Infra:** PostgreSQL · Docker
+- **Dados & Infra:** PostgreSQL · Docker · AWS
 - **IA & Dados:** LLMs locais · Deep Learning · Estruturação de dados
-- **Segurança:** Cibersegurança
+- **Segurança:** Cibersegurança · Criptografia · Segurança de aplicações · Autenticação & autorização (OAuth / JWT)
 
 ### Contato
 
