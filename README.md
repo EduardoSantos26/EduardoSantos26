@@ -1,5 +1,6 @@
-<h1 align="center">Eduardo Santos</h1>
-<p align="center"><b>Desenvolvedor Full-Stack</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12d3de,100:0ea5e9&height=180&section=header&text=Eduardo%20Santos&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full-Stack&descAlignY=58&descSize=20" alt="Eduardo Santos" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -15,24 +16,15 @@
 
 ### Sobre
 
-Desenvolvedor full-stack — do back-end ao front, com foco em entregar produto que funciona de ponta a ponta (infra, API e interface).
+Desenvolvedor full-stack — do back-end ao front, com foco em entregar produto que funciona de ponta a ponta (infra, API e interface). Também atuo com **IA / LLMs locais**, **deep learning**, **estruturação de dados** e **cibersegurança**.
 
 ### Tecnologias
 
 - **Back-end:** Python · Django · Java · C++
 - **Front-end:** React
 - **Dados & Infra:** PostgreSQL · Docker
-
-### GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardoSantos26&show_icons=true&hide_border=true&count_private=true" alt="estatísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSantos26&layout=compact&hide_border=true&langs_count=8" alt="linguagens" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoSantos26&hide_border=true" alt="sequência" />
-</p>
+- **IA & Dados:** LLMs locais · Deep Learning · Estruturação de dados
+- **Segurança:** Cibersegurança
 
 ### Contato
 
